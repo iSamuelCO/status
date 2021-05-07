@@ -4,12 +4,20 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Página web personal 
+  - name: Personal website
     url: https://samuel.capestar.xyz
   - name: Uranium Bot
     url: https://uranium.capestar.xyz
   - name: CapeCity ✨
     url: https://city.capestar.xyz
+  - name: Riczer
+    url: https://riczer.capestar.xyz
+  - name: CDN 
+    url: https://cdn.capestar.xyz
+  - name: Hastebin
+    url: https://haste.capestar.xyz
+  - name: UploadX 
+    url: https://subcdn.capestar.xyz
 
 
 status-website:
