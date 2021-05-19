@@ -17,7 +17,7 @@ sites:
   - name: Hastebin
     url: https://haste.capestar.xyz
   - name: UploadX 
-    url: https://subcdn.capestar.xyz
+    url: https://m.capestar.xyz
 
 
 status-website:
