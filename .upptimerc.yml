@@ -4,25 +4,27 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: CapeStar.NET 
+    url: https://capestar.net
   - name: Personal website
-    url: https://samuel.capestar.xyz
+    url: https://samuel.capestar.net
   - name: Uranium Bot
-    url: https://uranium.capestar.xyz
+    url: https://uranium.capestar.net
   - name: CapeCity ✨
-    url: https://city.capestar.xyz
+    url: https://city.capestar.net
   - name: Riczer
-    url: https://riczer.capestar.xyz
+    url: https://riczer.capestar.net
   - name: CDN 
-    url: https://cdn.capestar.xyz
+    url: https://cdn.capestar.net
   - name: Hastebin
-    url: https://haste.capestar.xyz
+    url: https://haste.capestar.net
   - name: UploadX 
-    url: https://m.capestar.xyz
+    url: https://m.capestar.net
 
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: status.capestar.xyz
+  cname: status.capestar.net
   baseUrl: /status
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
