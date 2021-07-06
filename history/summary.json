@@ -130,17 +130,17 @@
     "url": "https://m.capestar.net",
     "icon": "https://favicons.githubusercontent.com/m.capestar.net",
     "slug": "upload-x",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 132,
-    "timeWeek": 164,
-    "timeMonth": 190,
-    "timeYear": 193,
+    "time": 191,
+    "timeDay": 105,
+    "timeWeek": 143,
+    "timeMonth": 186,
+    "timeYear": 191,
     "dailyMinutesDown": {}
   }
 ]
