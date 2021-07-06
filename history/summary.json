@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 294,
     "timeDay": 240,
-    "timeWeek": 160,
+    "timeWeek": 166,
     "timeMonth": 294,
     "timeYear": 294,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 172,
     "timeDay": 231,
-    "timeWeek": 175,
+    "timeWeek": 170,
     "timeMonth": 178,
     "timeYear": 172,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 188,
     "timeDay": 264,
-    "timeWeek": 144,
+    "timeWeek": 147,
     "timeMonth": 161,
     "timeYear": 188,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 160,
     "timeDay": 268,
-    "timeWeek": 159,
+    "timeWeek": 138,
     "timeMonth": 181,
     "timeYear": 160,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 194,
-    "timeWeek": 119,
+    "timeWeek": 115,
     "timeMonth": 142,
     "timeYear": 143,
     "dailyMinutesDown": {}
@@ -112,17 +112,17 @@
     "url": "https://haste.capestar.net",
     "icon": "https://favicons.githubusercontent.com/haste.capestar.net",
     "slug": "hastebin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 116,
-    "timeWeek": 147,
-    "timeMonth": 169,
-    "timeYear": 148,
+    "time": 147,
+    "timeDay": 97,
+    "timeWeek": 138,
+    "timeMonth": 166,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   },
   {
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 193,
     "timeDay": 132,
-    "timeWeek": 167,
+    "timeWeek": 164,
     "timeMonth": 190,
     "timeYear": 193,
     "dailyMinutesDown": {}
